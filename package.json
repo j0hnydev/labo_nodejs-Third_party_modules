@@ -1,0 +1,23 @@
+{
+  "name": "labo_nodejs-third_party_modules",
+  "version": "1.0.0",
+  "description": "Dit labo heeft als doel het verkennen, installeren en gebruiken van Third party modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j0hnydev/labo_nodejs-Third_party_modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j0hnydev/labo_nodejs-Third_party_modules/issues"
+  },
+  "homepage": "https://github.com/j0hnydev/labo_nodejs-Third_party_modules#readme",
+  "dependencies": {
+    "@fancyapps/ui": "^5.0.24"
+  }
+}
